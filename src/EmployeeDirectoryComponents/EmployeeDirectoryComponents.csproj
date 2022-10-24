@@ -1,9 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk.Razor">
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Title>EmployeeDirectoryComponents</Title>
+    <Authors>Emanuele Bartolesi</Authors>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/kasuken/.NET-Days-2022-Sample/</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/kasuken/.NET-Days-2022-Sample.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
